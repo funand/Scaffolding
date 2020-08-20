@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Scaffoldiing</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter team name</string>
+    <string name="team_id">Team ID</string>
+    <string name="team_name">Team name</string>
+    <string name="league">Current League</string>
+    <string name="team_alternate_Name">Team Alternate Name</string>
+    <string name="team_stadium">Team Stadium</string>
+    <string name="team_stadium_location">Stadium Location</string>
+    <string name="stadium_capacity">Stadium Capacity</string>
+    <string name="team_description">Team Description</string>
+    <string name="team_logo_description">Team Logo Description</string>
+    <string name="team_stadium_description">Team Stadium Description</string>
+
+    <!--  team_details   -->
+    <string name="team_id_text">Team Id: </string>
+    <string name="team_name_text">Team Name: </string>
+    <string name="team_league_text">Team League: </string>
+    <string name="team_alternate_name_text">Team Alternate Name: </string>
+    <string name="team_stadium_text">Team Stadium: </string>
+    <string name="team_stadium_location_text">Team Stadium Location: </string>
+    <string name="team_stadium_capacity_text">Team Stadium Capacity: </string>
+    <string name="team_description_text">Team Description: </string>
+</resources>
